@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Rebalance HCCO Guide
+description: Guide for the HCCO (Hardcore Combat Only) mod for Melvor Idle, with Rebalance mode active.
 theme: just-the-docs
+color_scheme: dark
 
 url: https://zxv975.github.io/hcco-guide
 
 aux_links:
+  Mod.io page: https://mod.io/g/melvoridle/m/hcco
   Template Repository: https://github.com/Zxv975/hcco-guide
